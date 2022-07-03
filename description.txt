@@ -1,0 +1,60 @@
+I never understood why there isn't an incentive to sustain your Life and Mana in Terraria, so I made this.
+
+Remember: Agony hardens the Heart. Comfort softens it.
+
+**What this does**
+Your Stats can now be increased/decreased through certain means. See below.
+
+Stat Exercise:
+-Receiving damage that is greater than or equal to a quarter of your Max Life will increase Max Life by 3 and Max Mana by 2. This has no limit. As long as the damage dealt is a quarter or more of what you can handle, you will grow stronger. (configurable)
+
+Stat Degradation:
+-Both stats decrease by 1 point every 3 minutes. (configurable)
+
+
+Additionally, this mod adds recipes for Life Crystals, Mana Crystals and Life Fruits. (configurable)
+
+
+-v0.1-
+-Initial build.
+
+-v0.2-
+__Gameplay Changes__
+-Swapped the Timer method's execution. Your stats will no longer automatically degrade by 1 every time you reload a world.
+-Every time the Player receives damage that is greater than or equal to a quarter of their Max Life, their Max Life and Max Mana are increased by 1.
+-Lowered Stat Degradation from 2 minutes to 1 minute.
+__Miscellaneous__
+-Changed the Mod Icon.
+-Updated the Description.
+-Renamed mod from "Stat Degradation" to "Dynamic Stats (Life/Mana Exercise and Degradation)".
+
+-v0.2.1-
+-Fixed a bug that prevented Stat Degradation.
+-Slightly edited the Description.
+
+-v0.2.2-
+-Increased the Stat Degradation cooldown from 1 minute to 3 minutes.
+
+-v0.2.3-
+-Changes from v0.2.2 *actually* apply now.. I really shouldn't be modding when I'm deprived of sleep.
+
+-v0.2.4-
+-Fixed the Stat Degradation timer.. again.
+
+-v0.2.5-
+-Reduced the Stat Degradation cooldown from 3 minutes to 2 minutes.
+
+-v0.2.6-
+-Stat Exercise through damage now increases both stats by 3, not 1.
+-Updated the Mod Icon and Title.
+
+-v0.2.7-
+-Stat Exercise now only increases Max Mana by 2, not 3.
+-Updated the Description and Title.
+
+-v0.3-
+-Added a config menu. Stat Degradation, Stat Exercise and Recipes are all configurable now.
+
+-v0.3.1.1-
+-Updated the mod for the July 2022 update of tModLoader.
+-Added Chat Tags to the config.
